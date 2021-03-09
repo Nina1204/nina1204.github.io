@@ -1,12 +1,12 @@
 # Site settings
-Name: Jing Jin
-Location: Hangzhou, China
-Company: Center of Congitive and Brain Disorder, Hangzhou Normal Universtiy & The Affilated hosptial of Hangzhou Normal Universtiy
-Position: 
-Github: https://github.com/ikym
-Facebook: https://www.facebook.com/
-Phone: 132653351111
-E-mail: nina1204@126.com
+name: Jing Jin
+location: Hangzhou, China
+company: Center of Congitive and Brain Disorder, Hangzhou Normal Universtiy & The Affilated hosptial of Hangzhou Normal Universtiy
+position: Psychiatrist & Research Assistant
+github: https://github.com/nina1204
+facebook: https://www.facebook.com/
+phone: (+86) 136-8575-6425
+email: nina1204@126.com
 
 baseurl: "/nina1204.github.io"
 
